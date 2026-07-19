@@ -5,7 +5,7 @@ export const siteConfig = {
   phoneHref: "tel:+905359501682",
   whatsappHref: "https://wa.me/905359501682",
   email: "iletisim@alibeykoycilingir.com",
-  url: "https://alibeykoycilingir.com",
+  url: "https://alibeykoyvipcilingir.com",
   address: "Alibeyköy, Eyüpsultan, İstanbul",
   serviceArea: ["İstanbul", "Eyüpsultan", "Alibeyköy"],
   workingHours: "7/24",
